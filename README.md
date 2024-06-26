@@ -1,0 +1,1 @@
+# BizQR-Desktop (Desktop basic Qr Genarator)
